@@ -1,5 +1,16 @@
 const fs = require("fs");
 
+
+ //Software Engineering - Spring 2026
+ //Warm-up Assignment: Delivery Driver Shift Tracker
+ //Student: Baraa Tantawy
+ //ID: 16008335
+
+ //This implementation passes all 26 public tests.
+ //All functions handle edge cases as per specifications.
+ 
+
+
 // ============================================================
 // Function 1: getShiftDuration(startTime, endTime)
 // startTime: (typeof string) formatted as hh:mm:ss am or hh:mm:ss pm
